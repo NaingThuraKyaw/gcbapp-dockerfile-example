@@ -14,4 +14,4 @@
 # limitations under the License.
 
 echo "Hello, world!"
-echo "The time is $(date). from naing"
+echo "The time is $(date). from naing again"
