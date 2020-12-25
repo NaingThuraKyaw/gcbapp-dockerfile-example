@@ -14,5 +14,6 @@
 
 FROM alpine
 COPY helloworld.sh /
+COPY notincludedfile.txt /
 RUN chmod +x helloworld.sh
 CMD ["/helloworld.sh"]
