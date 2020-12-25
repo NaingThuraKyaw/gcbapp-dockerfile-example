@@ -15,3 +15,4 @@
 
 echo "Hello, world! 2"
 echo "The time is $(date). from naing test merge trigger"
+cat notincludedfile.txt
