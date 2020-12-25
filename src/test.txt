@@ -1,3 +1,1 @@
-test2 tag1 
-test 3 tag4
-no tag update
+test3 before tagging
